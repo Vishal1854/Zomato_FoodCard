@@ -57,7 +57,9 @@ body{
   flex-basis: 75%;
 }
 @media screen and width(<=700px){
+    #ZomatoCard{
     flex basis:100%
+        }
 }
 
 
