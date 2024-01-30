@@ -56,7 +56,9 @@ body{
 #foot p{
   flex-basis: 75%;
 }
-
+@media screen and width(<=700px){
+    flex basis:100%
+}
 
 
 
